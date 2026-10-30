@@ -1,0 +1,32 @@
+media:
+  input: assets
+  output: assets
+  rename: safe
+content:
+  - name: site
+    label: Website text and settings
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - { name: hero_title, label: Main heading, type: string }
+      - { name: hero_description, label: Introduction, type: text }
+      - { name: hero_image, label: Homepage picture, type: image }
+      - { name: about_intro, label: Artist introduction, type: text }
+      - { name: about_description, label: About Nasrin, type: text }
+      - { name: about_teaching, label: Teaching background, type: text }
+      - { name: education_description, label: Art education description, type: text }
+      - { name: commission_description, label: Commissions description, type: text }
+      - { name: instagram, label: Instagram URL, type: string }
+  - name: artworks
+    label: Paintings and artwork
+    type: file
+    path: content/artworks.json
+    format: json
+    list: true
+    fields:
+      - { name: title, label: Artwork title, type: string }
+      - { name: category, label: Category (Painting, Drawing, Illustration, Mural), type: select, options: { values: [Painting, Drawing, Illustration, Mural] } }
+      - { name: image, label: Main picture, type: image }
+      - { name: description, label: Artwork description, type: text }
+      - { name: additional_images, label: More pictures, type: image, list: true }
