@@ -2,18 +2,16 @@
   {
     "title": "Work 01",
     "category": "Painting",
-    "image": "assets/gold-portrait.jpg",
-    "description": "",
+    "image": "assets/05c8c448-53b6-4d23-af2f-0aa585f137ac.jpg",
     "additional_images": [
-      "assets/gold-detail.jpg",
-      "assets/gold-room.jpg"
+      "assets/93c77499-895d-4a81-b714-45f2af652838.jpg",
+      "assets/b65c66c5-b14c-4a9a-bc79-76381accfb0f.jpg"
     ]
   },
   {
     "title": "Work 02",
     "category": "Painting",
-    "image": "assets/red-portrait.jpg",
-    "description": "",
+    "image": "assets/1738772d-3571-4ed9-81d4-a95393995a2a.jpg",
     "additional_images": [
       "assets/red-room.jpg"
     ]
@@ -22,7 +20,6 @@
     "title": "Work 03",
     "category": "Painting",
     "image": "assets/sunset.jpg",
-    "description": "",
     "additional_images": [
       "assets/sunset-room.jpg"
     ]
@@ -31,7 +28,6 @@
     "title": "Work 04",
     "category": "Illustration",
     "image": "assets/bird.jpg",
-    "description": "",
     "additional_images": [
       "assets/bird-process.jpg"
     ]
@@ -40,7 +36,6 @@
     "title": "Work 05",
     "category": "Painting",
     "image": "assets/dancer.jpg",
-    "description": "",
     "additional_images": [
       "assets/dancer-detail.jpg"
     ]
@@ -48,29 +43,21 @@
   {
     "title": "Work 06",
     "category": "Mural",
-    "image": "assets/botanical.jpg",
-    "description": "",
-    "additional_images": []
+    "image": "assets/botanical.jpg"
   },
   {
     "title": "Work 07",
     "category": "Painting",
-    "image": "assets/wings.jpg",
-    "description": "",
-    "additional_images": []
+    "image": "assets/wings.jpg"
   },
   {
     "title": "Work 08",
     "category": "Illustration",
-    "image": "assets/myth.jpg",
-    "description": "",
-    "additional_images": []
+    "image": "assets/myth.jpg"
   },
   {
     "title": "Work 09",
     "category": "Drawing",
-    "image": "assets/cat.jpg",
-    "description": "",
-    "additional_images": []
+    "image": "assets/cat.jpg"
   }
 ]
