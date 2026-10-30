@@ -2,62 +2,38 @@
   {
     "title": "Work 01",
     "category": "Painting",
-    "image": "assets/2e01f4b61bcb5a24fe28bb56faf0bf56.jpg",
-    "additional_images": [
-      "assets/93c77499-895d-4a81-b714-45f2af652838.jpg",
-      "assets/b65c66c5-b14c-4a9a-bc79-76381accfb0f.jpg"
-    ]
+    "image": "assets/05c8c448-53b6-4d23-af2f-0aa585f137ac-1.jpg"
   },
   {
     "title": "Work 02",
-    "category": "Painting",
-    "image": "assets/1738772d-3571-4ed9-81d4-a95393995a2a.jpg",
-    "additional_images": [
-      "assets/red-room.jpg"
-    ]
+    "category": "Painting"
   },
   {
     "title": "Work 03",
-    "category": "Painting",
-    "image": "assets/sunset.jpg",
-    "additional_images": [
-      "assets/sunset-room.jpg"
-    ]
+    "category": "Painting"
   },
   {
     "title": "Work 04",
-    "category": "Illustration",
-    "image": "assets/bird.jpg",
-    "additional_images": [
-      "assets/bird-process.jpg"
-    ]
+    "category": "Illustration"
   },
   {
     "title": "Work 05",
-    "category": "Painting",
-    "image": "assets/dancer.jpg",
-    "additional_images": [
-      "assets/dancer-detail.jpg"
-    ]
+    "category": "Painting"
   },
   {
     "title": "Work 06",
-    "category": "Mural",
-    "image": "assets/botanical.jpg"
+    "category": "Mural"
   },
   {
     "title": "Work 07",
-    "category": "Painting",
-    "image": "assets/wings.jpg"
+    "category": "Painting"
   },
   {
     "title": "Work 08",
-    "category": "Illustration",
-    "image": "assets/myth.jpg"
+    "category": "Illustration"
   },
   {
     "title": "Work 09",
-    "category": "Drawing",
-    "image": "assets/cat.jpg"
+    "category": "Drawing"
   }
 ]
