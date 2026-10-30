@@ -13,4 +13,17 @@ function closeWork(){overlay.classList.remove('show');document.body.style.overfl
 document.querySelector('#close').addEventListener('click',closeWork);document.addEventListener('keydown',e=>{if(e.key==='Escape'&&overlay.classList.contains('show'))closeWork()});document.querySelector('#year').textContent=new Date().getFullYear();
 async function load(){try{const [site,art]=await Promise.all([fetch('content/site.json').then(r=>r.json()),fetch('content/artworks.json').then(r=>r.json())]);const bindings={'herodesc':'hero_description','aboutintro':'about_intro','aboutdesc':'about_description','aboutteaching':'about_teaching','educationdesc':'education_description','commissiondesc':'commission_description'};for(const [id,key] of Object.entries(bindings)){document.getElementById(id).textContent=site[key]||'';}document.getElementById('herotitle').textContent=site.hero_title||'Selected Works.';document.getElementById('heroimage').src=site.hero_image||'assets/gold-portrait.jpg';document.querySelectorAll('a[href*="instagram.com/nassrin.art"]').forEach(a=>a.href=site.instagram||'https://www.instagram.com/nassrin.art/');works=art;renderGallery()}catch(e){console.error(e);gallery.innerHTML='<p>Artwork could not load. This version needs to be hosted on a web server (such as GitHub Pages), rather than opened directly as a file.</p>';}}
 load();
-</script></body></html>
+</script><script>
+/* Support artwork images already uploaded to the repository root. */
+document.addEventListener('error', function(event) {
+  const img = event.target;
+  if (!(img instanceof HTMLImageElement) || img.dataset.rootTried === 'yes') return;
+  const current = img.getAttribute('src') || '';
+  const match = current.match(/^(?:\.\/)?assets\/([^/?#]+\.(?:jpe?g|png|webp|gif))(?:[?#].*)?$/i);
+  if (match) {
+    img.dataset.rootTried = 'yes';
+    img.src = match[1];
+  }
+}, true);
+</script>
+</body></html>
