@@ -1,7 +1,12 @@
 [
   {
     "title": "Stories in Colour",
-    "image": "assets/whatsapp-image-2026-10-30-at-55809-pm.jpeg"
+    "image": "assets/whatsapp-image-2026-10-30-at-55809-pm.jpeg",
+    "additional_images": [
+      "assets/05c8c448-53b6-4d23-af2f-0aa585f137ac-2.jpg",
+      "assets/whatsapp-image-2026-10-30-at-55556-pm.jpeg",
+      "assets/b65c66c5-b14c-4a9a-bc79-76381accfb0f-1.jpg"
+    ]
   },
   {
     "title": "Work 02",
