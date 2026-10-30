@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Work 01",
+    "category": "Painting",
+    "image": "assets/gold-portrait.jpg",
+    "description": "",
+    "additional_images": [
+      "assets/gold-detail.jpg",
+      "assets/gold-room.jpg"
+    ]
+  },
+  {
+    "title": "Work 02",
+    "category": "Painting",
+    "image": "assets/red-portrait.jpg",
+    "description": "",
+    "additional_images": [
+      "assets/red-room.jpg"
+    ]
+  },
+  {
+    "title": "Work 03",
+    "category": "Painting",
+    "image": "assets/sunset.jpg",
+    "description": "",
+    "additional_images": [
+      "assets/sunset-room.jpg"
+    ]
+  },
+  {
+    "title": "Work 04",
+    "category": "Illustration",
+    "image": "assets/bird.jpg",
+    "description": "",
+    "additional_images": [
+      "assets/bird-process.jpg"
+    ]
+  },
+  {
+    "title": "Work 05",
+    "category": "Painting",
+    "image": "assets/dancer.jpg",
+    "description": "",
+    "additional_images": [
+      "assets/dancer-detail.jpg"
+    ]
+  },
+  {
+    "title": "Work 06",
+    "category": "Mural",
+    "image": "assets/botanical.jpg",
+    "description": "",
+    "additional_images": []
+  },
+  {
+    "title": "Work 07",
+    "category": "Painting",
+    "image": "assets/wings.jpg",
+    "description": "",
+    "additional_images": []
+  },
+  {
+    "title": "Work 08",
+    "category": "Illustration",
+    "image": "assets/myth.jpg",
+    "description": "",
+    "additional_images": []
+  },
+  {
+    "title": "Work 09",
+    "category": "Drawing",
+    "image": "assets/cat.jpg",
+    "description": "",
+    "additional_images": []
+  }
+]
