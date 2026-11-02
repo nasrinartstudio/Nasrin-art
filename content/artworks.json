@@ -29,16 +29,12 @@
   {
     "title": "Pencilcolour | Small format",
     "category": "Mural",
-    "image": "assets/9fc5853e-8bfc-425e-8d28-fc253f954710-2.jpg",
-    "additional_images": [
-      "assets/chatgpt-image-nov-2-2026-020711-pm.png"
-    ]
+    "image": "assets/9fc5853e-8bfc-425e-8d28-fc253f954710-2.jpg"
   },
   {
-    "title": "Acrylic on Canvas | Large format",
+    "title": "\tAcrylic on canvas",
     "category": "Painting",
-    "image": "assets/gold-accented-leaf-gallery-vignette.png",
-    "description": "Acrylic on Canvas | Large format"
+    "image": "assets/gold-accented-leaf-gallery-vignette.png"
   },
   {
     "title": "Gouache on kraft paper | Small format",
