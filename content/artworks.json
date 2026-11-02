@@ -20,7 +20,10 @@
   {
     "title": "Gouache on paper",
     "category": "Painting",
-    "image": "assets/whatsapp-image-2026-10-30-at-55515-pm-2.jpeg"
+    "image": "assets/whatsapp-image-2026-10-30-at-55515-pm-2.jpeg",
+    "additional_images": [
+      "assets/whatsapp-image-2026-10-30-at-55522-pm-1.jpeg"
+    ]
   },
   {
     "title": "Acrylic on canvas",
