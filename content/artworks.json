@@ -46,9 +46,10 @@
     "description": "Botanical Mural"
   },
   {
-    "title": "\tAcrylic on canvas",
+    "title": "Acrylic on canvas",
     "category": "Painting",
     "image": "assets/96bb3e4e-dea2-490e-9520-fcc7b5208091.jpg",
+    "description": "Acrylic on canvas",
     "additional_images": [
       "assets/gold-accented-leaf-gallery-vignette-1.png"
     ]
