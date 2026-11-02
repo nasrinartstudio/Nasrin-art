@@ -51,11 +51,14 @@
     "title": "Pencilcolour | Small format",
     "category": "Mural",
     "image": "assets/9fc5853e-8bfc-425e-8d28-fc253f954710-2.jpg",
-    "description": "Wall painting"
+    "description": "Wall painting",
+    "additional_images": [
+      "assets/chatgpt-image-nov-2-2026-020711-pm.png"
+    ]
   },
   {
-    "title": "Work 08",
-    "category": "Illustration"
+    "title": "Acrylic on Canvas | Large format",
+    "category": "Painting"
   },
   {
     "title": "Work 09",
