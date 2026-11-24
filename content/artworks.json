@@ -121,5 +121,10 @@
     "additional_images": [
       "assets/serene-living-room-swan-artwork.png"
     ]
+  },
+  {
+    "title": "Abstract",
+    "category": "Painting",
+    "image": "assets/imag0603.jpg"
   }
 ]
