@@ -126,5 +126,11 @@
     "title": "Abstract",
     "category": "Painting",
     "image": "assets/imag0603.jpg"
+  },
+  {
+    "title": "Silver Whispers",
+    "category": "Drawing",
+    "image": "assets/silver-scratch-art-web.jpg",
+    "description": "A study inspired by an existing artwork, recreated using scratch-art techniques on metallic paper with original decorative details."
   }
 ]
