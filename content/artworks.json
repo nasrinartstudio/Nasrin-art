@@ -112,5 +112,14 @@
     "title": "Rhythm of Letters",
     "category": "Painting",
     "image": "assets/imag0594.jpg"
+  },
+  {
+    "title": "Silent Wings",
+    "category": "Painting",
+    "image": "assets/imag0597.jpg",
+    "description": " A graceful composition of three swans, exploring movement, harmony, and soft silver-blue tones.",
+    "additional_images": [
+      "assets/serene-living-room-swan-artwork.png"
+    ]
   }
 ]
