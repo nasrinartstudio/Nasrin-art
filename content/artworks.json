@@ -19,12 +19,19 @@
     ]
   },
   {
-    "title": "Gouache on paper",
+    "title": "Botanical Mural",
+    "category": "Mural",
+    "image": "assets/9fc5853e-8bfc-425e-8d28-fc253f954710-2.jpg"
+  },
+  {
+    "title": "Decorative Portrait",
     "category": "Painting",
-    "image": "assets/whatsapp-image-2026-11-02-at-54842-pm-1.jpeg",
+    "image": "assets/whatsapp-image-2026-10-30-at-55556-pm-4.jpeg",
+    "description": "A hand-painted reproduction featuring geometric patterns, vibrant colours, and gold-toned details.",
     "additional_images": [
-      "assets/whatsapp-image-2026-10-30-at-55522-pm-1.jpeg",
-      "assets/whatsapp-image-2026-10-30-at-55515-pm-5.jpeg"
+      "assets/05c8c448-53b6-4d23-af2f-0aa585f137ac-5.jpg",
+      "assets/a1f1d42c-621c-407d-9a1b-3165a53d44ec-1.jpg",
+      "assets/b65c66c5-b14c-4a9a-bc79-76381accfb0f-2.jpg"
     ]
   },
   {
@@ -38,15 +45,25 @@
     ]
   },
   {
+    "title": "Gouache on paper",
+    "category": "Painting",
+    "image": "assets/whatsapp-image-2026-11-02-at-54842-pm-1.jpeg",
+    "additional_images": [
+      "assets/whatsapp-image-2026-10-30-at-55522-pm-1.jpeg",
+      "assets/whatsapp-image-2026-10-30-at-55515-pm-5.jpeg"
+    ]
+  },
+  {
+    "title": "Feline Portrait",
+    "category": "Drawing",
+    "image": "assets/f037230d-fc5e-4aa4-b8c6-1a87bdfebc1d-3.jpg",
+    "description": "Coloured pencil on paper\n\nA portrait of a friend's cat, capturing its distinctive features and gentle character."
+  },
+  {
     "title": "After Mahmoud Farshchian",
     "category": "Painting",
     "image": "assets/8720c3c3-e52f-47b0-86a9-0ebbac4df9f0-1.jpg",
     "description": "Watercolour on paper\n\nA hand-painted reproduction of an original work by Mahmoud Farshchian."
-  },
-  {
-    "title": "Botanical Mural",
-    "category": "Mural",
-    "image": "assets/9fc5853e-8bfc-425e-8d28-fc253f954710-2.jpg"
   },
   {
     "title": "Acrylic on canvas",
@@ -62,23 +79,6 @@
     "image": "assets/2a5cab7b-5e21-4958-9f18-ca9939a3b71f-1.jpg",
     "additional_images": [
       "assets/chatgpt-image-nov-2-2026-020711-pm-1.png"
-    ]
-  },
-  {
-    "title": "Feline Portrait",
-    "category": "Drawing",
-    "image": "assets/f037230d-fc5e-4aa4-b8c6-1a87bdfebc1d-3.jpg",
-    "description": "Coloured pencil on paper\n\nA portrait of a friend's cat, capturing its distinctive features and gentle character."
-  },
-  {
-    "title": "Decorative Portrait",
-    "category": "Painting",
-    "image": "assets/whatsapp-image-2026-10-30-at-55556-pm-4.jpeg",
-    "description": "A hand-painted reproduction featuring geometric patterns, vibrant colours, and gold-toned details.",
-    "additional_images": [
-      "assets/05c8c448-53b6-4d23-af2f-0aa585f137ac-5.jpg",
-      "assets/a1f1d42c-621c-407d-9a1b-3165a53d44ec-1.jpg",
-      "assets/b65c66c5-b14c-4a9a-bc79-76381accfb0f-2.jpg"
     ]
   },
   {
